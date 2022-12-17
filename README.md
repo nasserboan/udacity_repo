@@ -8,4 +8,5 @@
 <code>git pull</code><br>
 <code>git checkout</code><br>
 <code>git branch</code><br>
+<code>git branch -d <name_of_the_branch></code><br>
 <code>git status</code><br>
