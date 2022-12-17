@@ -1,2 +1,11 @@
-# udacity_repo
-This is a repository to gain familiarity with git and Github.
+# Git Commands
+
+<code>git commit</code><br>
+<code>git add</code><br>
+<code>git push</code><br>
+<code>git init</code><br>
+<code>git clone</code><br>
+<code>git pull</code><br>
+<code>git checkout</code><br>
+<code>git branch</code><br>
+<code>git status</code><br>
