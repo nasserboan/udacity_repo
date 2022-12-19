@@ -1,0 +1,7 @@
+2022-12-18 08:42:07 - INFO - SUCCESS: arguments (10,45) recieved.
+2022-12-18 08:42:33 - INFO - SUCCESS: arguments (10,45) recieved.
+2022-12-18 09:02:03 - INFO - SUCCESS: arguments (2,20) recieved.
+2022-12-18 09:03:24 - INFO - SUCCESS: arguments (2,20) recieved.
+2022-12-18 09:07:10 - WARNING - WARNING: arg2(2) greater than arg1(20),             returning zero.
+2022-12-18 09:08:11 - WARNING - : arg2(2) greater than arg1(20),             returning zero.
+2022-12-18 09:08:26 - WARNING -  arg2(2) greater than arg1(20),             returning zero.
