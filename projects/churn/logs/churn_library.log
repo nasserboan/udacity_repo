@@ -1,0 +1,63 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing EDA: SUCCESS (churn_distribution.png)
+root - INFO - Testing EDA: SUCCESS (customer_age_distribution.png)
+root - INFO - Testing EDA: SUCCESS (marital_status_distribution.png)
+root - INFO - Testing EDA: SUCCESS (total_transaction_distribution.png)
+root - INFO - Testing EDA: SUCCESS (heatmap.png)
+root - INFO - Testing ENCODER HELPER: SUCCESS
+root - INFO - Testing ENCODER HELPER: SUCCESS
+root - INFO - Testing ENCODER HELPER: SUCCESS
+root - INFO - Testing ENCODER HELPER: SUCCESS
+root - INFO - Testing ENCODER HELPER: SUCCESS
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (returns all four datasets)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (X_train, X_test have the correct types)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (X_train, X_test have the correct types)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (y_train, y_test have the correct types)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (y_train, y_test have the correct types)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Customer_Age is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Customer_Age is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Dependent_count is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Dependent_count is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Months_on_book is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Months_on_book is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Relationship_Count is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Relationship_Count is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Months_Inactive_12_mon is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Months_Inactive_12_mon is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Contacts_Count_12_mon is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Contacts_Count_12_mon is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Credit_Limit is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Credit_Limit is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Revolving_Bal is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Revolving_Bal is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Avg_Open_To_Buy is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Avg_Open_To_Buy is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Amt_Chng_Q4_Q1 is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Amt_Chng_Q4_Q1 is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Trans_Amt is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Trans_Amt is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Trans_Ct is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Trans_Ct is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Ct_Chng_Q4_Q1 is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Total_Ct_Chng_Q4_Q1 is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Avg_Utilization_Ratio is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Avg_Utilization_Ratio is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Gender_churn is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Gender_churn is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Education_Level_churn is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Education_Level_churn is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Marital_Status_churn is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Marital_Status_churn is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Income_Category_churn is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Income_Category_churn is present in X_test data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Card_Category_churn is present in X_train data)
+root - INFO - Testing PERFORM FEATURE ENGINEERING: SUCCESS (feature Card_Category_churn is present in X_test data)
+matplotlib.backends._backend_tk - INFO - Could not load matplotlib icon: bad option "foobar": must be aspect, attributes, client, colormapwindows, command, deiconify, focusmodel, forget, frame, geometry, grid, group, iconbitmap, iconify, iconmask, iconname, iconphoto, iconposition, iconwindow, manage, maxsize, minsize, overrideredirect, positionfrom, protocol, resizable, sizefrom, stackorder, state, title, transient, or withdraw
+matplotlib.backends._backend_tk - INFO - Could not load matplotlib icon: bad option "foobar": must be aspect, attributes, client, colormapwindows, command, deiconify, focusmodel, forget, frame, geometry, grid, group, iconbitmap, iconify, iconmask, iconname, iconphoto, iconposition, iconwindow, manage, maxsize, minsize, overrideredirect, positionfrom, protocol, resizable, sizefrom, stackorder, state, title, transient, or withdraw
+matplotlib.backends._backend_tk - INFO - Could not load matplotlib icon: bad option "foobar": must be aspect, attributes, client, colormapwindows, command, deiconify, focusmodel, forget, frame, geometry, grid, group, iconbitmap, iconify, iconmask, iconname, iconphoto, iconposition, iconwindow, manage, maxsize, minsize, overrideredirect, positionfrom, protocol, resizable, sizefrom, stackorder, state, title, transient, or withdraw
+matplotlib.backends._backend_tk - INFO - Could not load matplotlib icon: bad option "foobar": must be aspect, attributes, client, colormapwindows, command, deiconify, focusmodel, forget, frame, geometry, grid, group, iconbitmap, iconify, iconmask, iconname, iconphoto, iconposition, iconwindow, manage, maxsize, minsize, overrideredirect, positionfrom, protocol, resizable, sizefrom, stackorder, state, title, transient, or withdraw
+root - INFO - Testing TRAIN MODELS: SUCCESS (number of models)
+root - INFO - Testing TRAIN MODEL: SUCCESS
+root - INFO - Testing TRAIN MODEL: SUCCESS
+root - INFO - Testing TRAIN MODEL: SUCCESS
+root - INFO - Testing TRAIN MODEL: SUCCESS
