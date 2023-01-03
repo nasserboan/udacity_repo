@@ -1,0 +1,29 @@
+{
+    "os": "Linux-5.15.0-56-generic-x86_64-with-glibc2.10",
+    "python": "3.8.15",
+    "heartbeatAt": "2023-01-03T12:09:51.747523",
+    "startedAt": "2023-01-03T12:09:50.322002",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 3070",
+    "gpu_count": 1,
+    "cpu_count": 20,
+    "cuda": null,
+    "args": [
+        "artifact",
+        "put",
+        "wandb_test",
+        "-n",
+        "testing/artifact_test"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "git@github.com:nasserboan/udacity_repo.git",
+        "commit": "f417ced8c904ff729ce07d609b765e60e4172916"
+    },
+    "email": "nasserboan@gmail.com",
+    "root": "/home/nasser/projetos/udacity_repo",
+    "host": "nasser-desktop",
+    "username": "nasser",
+    "executable": "/home/nasser/miniconda3/envs/udacity/bin/python"
+}

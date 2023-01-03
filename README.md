@@ -11,11 +11,23 @@ In this program, I've built some DevOps skills required to automate various aspe
 * Automated model scoring and monitoring
     - Project: A dynamic risk assessment system
 
-## Concepts and Tools:
+## Concepts and tools learned:
 
 * Clean code concepts and practices
+* MLOps concepts and practices
+* MLOps levels
 * PEP8 compliant documentation
 * Unit testing
 * Pytest
 * Pylint
 * Autopep8
+* MLflow
+* Weights and Biaases
+
+## Interesting quotes and images
+
+![](images/mlops_intro.png)
+
+> "MLOPs is a set of best practices and methods for an **efficient** end-to-end development and operation of **performant, scalable, reliable, automated** and **reproducible** ML solutions in a real **production** setting."
+
+![](images/ml_project.png)
