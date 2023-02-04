@@ -22,7 +22,8 @@ In this program, I've built some DevOps skills required to automate various aspe
 * Pylint
 * Autopep8
 * MLflow
-* Weights and Biaases
+* Weights and Biases
+* Hydra
 
 ## Interesting quotes and images
 
@@ -31,3 +32,7 @@ In this program, I've built some DevOps skills required to automate various aspe
 > "MLOPs is a set of best practices and methods for an **efficient** end-to-end development and operation of **performant, scalable, reliable, automated** and **reproducible** ML solutions in a real **production** setting."
 
 ![](images/ml_project.png)
+
+![](images/tools.png)
+
+![](images/level-comparison.png)
